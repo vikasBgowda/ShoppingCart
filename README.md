@@ -1,6 +1,7 @@
 # React + Vite
-![screenshot](public/Screenshot1)
+![screenshot](public/Screenshot1
 
+![screenshot2](public/Screenshot2)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
